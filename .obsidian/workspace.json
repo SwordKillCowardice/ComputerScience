@@ -1,0 +1,294 @@
+{
+  "main": {
+    "id": "a4235d508ed588b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8be4d994148609f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "857fd96dc5bfada5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS50x/CS50xLearn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CS50xLearn"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6287fb1b0419da2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3aea566c7c26c710",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cc503ba21803541",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "87a4338c63fdaaf9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "fe2c8199343b471b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e29c6cde48843b29",
+    "type": "split",
+    "children": [
+      {
+        "id": "41a244b8476f358e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44d96d8a55468dac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "606537749cee35e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Skills/Obsidian_Learn/Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Obsidian 的出链列表"
+            }
+          },
+          {
+            "id": "a998f89aba317ed7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "4abfa5b3bd689c04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Skills/Obsidian_Learn/Obsidian.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Obsidian 的大纲"
+            }
+          },
+          {
+            "id": "e49ef3fcdd249303",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
+          },
+          {
+            "id": "541571d4a6d83629",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "reminder-list"
+            }
+          },
+          {
+            "id": "6f019721546b7c2d",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "健身/健身.md"
+              },
+              "icon": "lucide-info",
+              "title": "健身的笔记属性"
+            }
+          },
+          {
+            "id": "6cefc9f178b6d409",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "751aea44b9e1be89",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "9d3b225550c2872b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "daae8728ce643b01",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 483.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:复习卡片": false
+    }
+  },
+  "active": "e49ef3fcdd249303",
+  "lastOpenFiles": [
+    "CS50x/CS50xLearn.md",
+    "_Butterfly/CSLearn.md",
+    "_Butterfly/CSMOC.md",
+    "_Butterfly",
+    "健身/健身扫盲.md",
+    "健身/腹肌练习.png",
+    "健身/未命名.md",
+    "健身入门.md",
+    "健身/Pasted image 20251024092346.png",
+    "健身/Pasted image 20251024092058.png",
+    "健身/Pasted image 20251024091458.png",
+    "健身/Pasted image 20251024091215.png",
+    "健身/Pasted image 20251024083905.png",
+    "Obsidian_Learn/Obsidian.md",
+    "_Butterfly/SkillsMoc.md",
+    "未命名.md",
+    "健身",
+    "_Butterfly",
+    "Skills/SkillsMoc.md",
+    "Skills/Obsidian_Learn/Obsidian.md",
+    "Skills/Obsidian_Learn/布局示意图.png",
+    "_Thoughts/The turning point.md",
+    "未命名.base",
+    "Skills/Obsidian_Learn/Pasted image 20251015143157.png",
+    "Skills/Obsidian_Learn/Pictures",
+    "Skills/Obsidian_Learn",
+    "Pictures/Pasted image 20251015143004.png",
+    "Pictures",
+    "未命名.canvas",
+    "2025-10-15.md",
+    "_Templates/Thoughts.md",
+    "Skills/Obsi.md",
+    "P",
+    "Pasted image 20251015085932.png",
+    "Skills/Obsidian/未命名.md",
+    "Skills/Obsidian",
+    "【Obsidian入门保姆级教程：20分钟轻松上手Obsidian！】.md",
+    "Skills",
+    "知识地图.md",
+    "双向链接.md",
+    "_Home/Unique.md",
+    "2025-10-14.md",
+    "欢迎.md"
+  ]
+}

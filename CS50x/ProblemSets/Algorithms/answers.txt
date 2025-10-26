@@ -1,0 +1,19 @@
+sort1 uses: Bubble sort
+
+How do you know?:
+I tested three txt files of size 50,000, and found that sort1 has a large difference in
+running time when the files are sorted and unordered, while for the complete reverse order
+and random order in the unordered files are about the same, which is consistent with the time
+complexity characteristics of bubble sort.
+
+sort2 uses: Merge sort
+
+How do you know?:
+For the same file size of 50,000, whether ordered or not, it shows high performance and
+takes about the same amount of time.
+
+sort3 uses: Selection sort
+
+How do you know?:
+For the same file size of 50,000, whether ordered or not, it shows normal performance and
+takes about the same amount of time.

@@ -1,0 +1,10 @@
+{
+  "theme": "moonstone",
+  "accentColor": "#5c61f5",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Noto Sans SC",
+  "monospaceFontFamily": "Cascadia Code",
+  "showViewHeader": true,
+  "showRibbon": false
+}

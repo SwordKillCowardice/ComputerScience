@@ -1,0 +1,20 @@
+{
+  "minimal-style@@base@@light": "#F38181",
+  "minimal-style@@bg1@@light": "#A7DCCF",
+  "minimal-style@@bg3@@light": "#FCE38A",
+  "minimal-style@@ui1@@light": "#EAFFD0",
+  "minimal-style@@ui3@@light": "#95E1D3",
+  "minimal-style@@ax1@@light": "#FF2E63",
+  "minimal-style@@ax3@@light": "#3FC1C9",
+  "minimal-style@@bases-toolbar-opacity": 1,
+  "minimal-style@@blockquote-color@@light": "#000000",
+  "minimal-style@@blockquote-border-color@@dark": "#000000",
+  "minimal-style@@blockquote-border-thickness": 2,
+  "minimal-style@@callouts-style": "callouts-outlined",
+  "minimal-style@@code-size": "1em",
+  "minimal-style@@minimal-code-scroll": false,
+  "minimal-style@@code-background@@light": "#E6F0EB",
+  "minimal-style@@blockquote-background-color@@light": "#B1E5DC",
+  "minimal-style@@hl2@@light": "#AAC4FF",
+  "minimal-style@@sp1@@dark": "#000000"
+}

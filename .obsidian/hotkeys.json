@@ -1,0 +1,19 @@
+{
+  "editor:insert-link": [],
+  "markdown:add-metadata-property": [],
+  "app:open-help": [],
+  "editor:follow-link": [],
+  "app:open-settings": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
+  ],
+  "app:go-back": [],
+  "editor:toggle-bold": [],
+  "app:go-forward": [],
+  "editor:toggle-italics": [],
+  "editor:toggle-checklist-status": []
+}

@@ -1,0 +1,11 @@
+If I were to follow the 2021 methodology, I would do the same by calculating
+the average energy, valence, and danceability of a person’s top 100 songs to
+get the "Audio Aura".
+
+I don't think this approach is really accurate enough; if a user likes multiple
+types of songs (they vary widely in the above stats) and those songs are included
+in the top 100, then averaging would not be an accurate method.
+
+I think I'll narrow the stats down to the first ten songs and calculate the average.
+My point is: it's unrealistic to try to accurately describe a user's  "Audio Aura" if
+their top ten favorite songs are still very different in style.
