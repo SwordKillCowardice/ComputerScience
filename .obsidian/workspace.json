@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f8be4d994148609f",
+        "id": "3d5deef694c82644",
         "type": "tabs",
         "children": [
           {
-            "id": "857fd96dc5bfada5",
+            "id": "5567a7f159c96dc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50x/CS50xLearn.md",
+                "file": "_Butterfly/CSMOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS50xLearn"
+              "title": "CSMOC"
             }
           }
         ]
@@ -112,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skills/Obsidian_Learn/Obsidian.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Obsidian 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -247,9 +246,13 @@
   },
   "active": "e49ef3fcdd249303",
   "lastOpenFiles": [
+    "images/GDP.png",
+    "final.md",
     "CS50x/CS50xLearn.md",
-    "_Butterfly/CSLearn.md",
+    "images",
+    "new",
     "_Butterfly/CSMOC.md",
+    "_Butterfly/CSLearn.md",
     "_Butterfly",
     "健身/健身扫盲.md",
     "健身/腹肌练习.png",
@@ -262,7 +265,6 @@
     "健身/Pasted image 20251024083905.png",
     "Obsidian_Learn/Obsidian.md",
     "_Butterfly/SkillsMoc.md",
-    "未命名.md",
     "健身",
     "_Butterfly",
     "Skills/SkillsMoc.md",
@@ -280,11 +282,8 @@
     "_Templates/Thoughts.md",
     "Skills/Obsi.md",
     "P",
-    "Pasted image 20251015085932.png",
     "Skills/Obsidian/未命名.md",
-    "Skills/Obsidian",
     "【Obsidian入门保姆级教程：20分钟轻松上手Obsidian！】.md",
-    "Skills",
     "知识地图.md",
     "双向链接.md",
     "_Home/Unique.md",
