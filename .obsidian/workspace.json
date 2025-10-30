@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Butterfly/CSMOC.md",
+                "file": "CS50x/CS50xLearn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSMOC"
+              "title": "CS50xLearn"
             }
           }
         ]
@@ -246,12 +246,12 @@
   },
   "active": "e49ef3fcdd249303",
   "lastOpenFiles": [
+    "_Butterfly/CSMOC.md",
     "images/GDP.png",
     "final.md",
     "CS50x/CS50xLearn.md",
     "images",
     "new",
-    "_Butterfly/CSMOC.md",
     "_Butterfly/CSLearn.md",
     "_Butterfly",
     "健身/健身扫盲.md",
